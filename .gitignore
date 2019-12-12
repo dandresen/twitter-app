@@ -1,1 +1,3 @@
 twitter_cred*
+*.py
+.ipynb_checkpoints/*
